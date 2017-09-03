@@ -1,0 +1,30 @@
+#outer-box{
+	background: #701806;
+	width:80%;
+	height: 700px;
+	margin:0px auto;
+	text-align: center;
+	padding: 20px;
+	font-weight: bold;
+}
+#inner-box{
+	background-color: black;
+	width:45%;
+	margin:0px auto;
+	border: double 30px #AA6850;
+}
+img{
+	width: 220px;
+	height: 180px;
+	margin-top: 20px;
+}
+p{
+	font-size: 48px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+    
+}
+#smallertext{
+	font-size: 32px;
+	font-weight: normal;
+}
